@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="all_classifier_666",
+    name="all_classifier_cls666",
     version="0.1.0",
     author="Arı Bilgi",
     author_email="aribilgiogr@gmail.com",
@@ -15,8 +15,8 @@ setup(
     packages=find_packages(),
     install_requires=["pandas", "numpy", "scikit-learn", "xgboost", "lightgbm"],
     classifiers=[
-        "Programming Language :: Python:: 3",
-        "License :: OSI Approves :: MIT License",
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
         "Intended Audience :: Developers",
         "Intended Audience :: Science/Research",

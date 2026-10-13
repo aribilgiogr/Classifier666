@@ -4,5 +4,5 @@
 
 ### Installation:
 ```bash
-pip install all-classifier-666
+pip install all-classifier-cls666
 ```
